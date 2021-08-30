@@ -17,7 +17,7 @@
 	</parent>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring-boot.version>2.4.7</spring-boot.version>
+		<spring-boot.version>2.4.8</spring-boot.version>
 		<spring-cloud.version>2020.0.3</spring-cloud.version>
 		<junit.version>4.13.1</junit.version>
 		<commons-io.version>2.7</commons-io.version>
