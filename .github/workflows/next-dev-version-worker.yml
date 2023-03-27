@@ -1,4 +1,4 @@
-name: Next Dev Version Worker
+name: Next Dev Version Worker - main
 
 on:
   workflow_dispatch:

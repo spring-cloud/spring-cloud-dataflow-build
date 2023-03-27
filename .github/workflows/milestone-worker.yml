@@ -1,4 +1,4 @@
-name: Milestone Worker
+name: Milestone Worker - main
 
 on:
   workflow_dispatch:
