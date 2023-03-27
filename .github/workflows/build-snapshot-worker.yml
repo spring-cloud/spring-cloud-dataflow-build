@@ -1,5 +1,5 @@
 # Worker which is dispatched from build-snapshot-controller workflow.
-name: Build Snapshot Worker
+name: Build Snapshot Worker - 2.10.x
 
 on:
   workflow_dispatch:
