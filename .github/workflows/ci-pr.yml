@@ -1,4 +1,4 @@
-name: CI PRs
+name: CI PRs - main
 
 on:
   pull_request:

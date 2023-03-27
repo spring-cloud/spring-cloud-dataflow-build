@@ -1,4 +1,4 @@
-name: Release Worker
+name: Release Worker - main
 
 on:
   workflow_dispatch:
