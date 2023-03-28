@@ -1,4 +1,5 @@
-name: CI - main
+name: CI - 2.10.x
+
 
 on:
   workflow_dispatch:
